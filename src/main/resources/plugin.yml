@@ -1,0 +1,10 @@
+name: Imageframes
+version: '1.0-SNAPSHOT'
+main: fi.ruhis.imageframes.Imageframes
+api-version: '1.21'
+author: Torksi
+
+commands:
+  image:
+    description: Create an image
+    permission: "imageframes.image"
